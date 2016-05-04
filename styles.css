@@ -3,6 +3,10 @@ Body {
   color: black;
   font-family: "Verdana";
 }
+h1 {
+  color: darkblue;
+  font-family: "CaflischScript";
+}
 ul {
   color: purple;
 }
