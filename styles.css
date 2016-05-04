@@ -5,7 +5,13 @@ Body {
 }
 h1 {
   color: darkblue;
-  font-family: "cursive";
+  font-family: cursive;
+}
+h3 {
+  color: #26466D;
+}
+div {
+  background-color: #5D7B93;
 }
 ul {
   color: purple;
