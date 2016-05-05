@@ -8,11 +8,11 @@ h1 {
   font-family: cursive;
 }
 h3 {
-  font-family:Courier;
+  font-family: cursive;
   color: #F5F5F5;
 }
 .first {
-  background-color: #999999;
+  background-color: #9BC4E2;
   border: 3px solid #6B6B6B;
   border-radius: 10px;
   height: 300px;
@@ -20,10 +20,10 @@ h3 {
   text-align: left;
 }
 .second {
-  background-color: #999999;
+  background-color: #9BC4E2;
   border: 3px solid #6B6B6B;
   border-radius: 10px;
-  height: 150px;
+  height: 75px;
   width: 100px;
   text-align: left;
 }
@@ -34,9 +34,15 @@ a {
   color: #5B59BA;
   text-decoration: none;
 }
+a:hover {
+  color: #003F87;
+}
+a:visited {
+  color: #22316C
+}
 img {
   border: 5px solid black;
 }
 .standout {
-  color: #65909A;
+  color: #00688B;
 }
