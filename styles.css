@@ -8,11 +8,15 @@ h1 {
   font-family: cursive;
 }
 h3 {
-  color: #26466D;
+  color: #344152;
 }
 div {
   background-color: #5D7B93;
 }
 ul {
   color: purple;
+}
+a {
+  color: #5B59BA;
+  tet-decoration: none;
 }
