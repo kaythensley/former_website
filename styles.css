@@ -20,3 +20,6 @@ a {
   color: #5B59BA;
   text-decoration: none;
 }
+img {
+  border: 5px solid black;
+}
