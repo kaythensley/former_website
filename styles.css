@@ -8,19 +8,27 @@ h1 {
   font-family: cursive;
 }
 h3 {
+  font-family:Courier;
   color: #F5F5F5;
 }
-div {
+.first {
   background-color: #999999;
   border: 3px solid #6B6B6B;
   border-radius: 10px;
   height: 300px;
   width: 500px;
-  margin: auto;
+  text-align: left;
+}
+.second {
+  background-color: #999999;
+  border: 3px solid #6B6B6B;
+  border-radius: 10px;
+  height: 150px;
+  width: 100px;
   text-align: left;
 }
 ul {
-  color: purple;
+  color: darkblue;
 }
 a {
   color: #5B59BA;
@@ -28,4 +36,7 @@ a {
 }
 img {
   border: 5px solid black;
+}
+.standout {
+  color: #65909A;
 }
