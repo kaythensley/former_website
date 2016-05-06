@@ -44,6 +44,8 @@ a:visited {
 img {
   border: 5px solid black;
   border-radius: 10px;
+  height: 200px;
+  width: 400px;
 }
 .standout {
   color: #00688B;
