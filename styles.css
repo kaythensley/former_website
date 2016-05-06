@@ -42,10 +42,11 @@ a:visited {
   color: #22316C
 }
 img {
-  border: 5px solid black;
+  border: 3px solid black;
   border-radius: 10px;
   height: 200px;
   width: 400px;
+  margin: auto;
 }
 .standout {
   color: #00688B;
