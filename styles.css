@@ -1,58 +1,23 @@
 Body {
-  background-color: lightgray;
+  background-color: #F2F2F2;
   color: black;
-  font-family: "Verdana";
+  font-family: "Tahoma";
 }
 h1 {
-  color: darkblue;
-  font-family: cursive;
+  color: #236B8E;
+  font-family: Impact;
 }
-h3 {
-  font-family: cursive;
-  color: #F5F5F5;
+#contact {
+  height: 75px;
+	width: 65px;
+	border: 1px solid #236B8E;
+	border-radius: 5px;
+	float: right;
+  padding: 5px;
+  font-family: monospace;
+  font-size: 16px;
 }
-.first {
-  background-color: #9BC4E2;
-  border: 3px solid #6B6B6B;
-  border-radius: 10px;
-  height: 200px;
-  width: 400px;
-  text-align: left;
-  margin: auto;
-}
-.second {
-  background-color: #9BC4E2;
-  border: 3px solid #6B6B6B;
-  border-radius: 10px;
-  height: 60px;
-  width: 100px;
-  text-align: left;
-}
-ul {
-  color: darkblue;
-}
-a {
-  color: #5B59BA;
+a:link {
   text-decoration: none;
-}
-a:hover {
-  color: #003F87;
-}
-a:visited {
-  color: #22316C
-}
-img {
-  border: 3px solid black;
-  border-radius: 10px;
-  height: 200px;
-  width: 400px;
-  margin: auto;
-}
-.standout {
-  color: #00688B;
-}
-div {
-  display: inline-block;
-  margin-left: 5px;
-  margin-right: 5px;
+  color: #696969;
 }
