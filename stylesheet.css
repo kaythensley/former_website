@@ -1,0 +1,66 @@
+Body {
+    font-family: Tahoma;
+}
+div {
+    border-radius: 7px;
+}
+h4 {
+    color: #2B4F81;
+}
+#header {
+	width: 99%;
+	height: 60px;
+	background-color: #D3D3D3;
+	position: fixed;
+	z-index: 1;
+	margin-top: -20px;
+	margin-bottom: 10px;
+}
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
+	font-size: 20px;
+	font-family: Tahoma;
+	color: #000000;
+}
+
+#email{
+	padding-top: 5px;
+	font-size: 20px;
+	font-family: Tahoma;
+	color: #000000;
+}
+.left {
+	width: 10%;
+	height: 800px;
+	background-color: #687C97;
+	float: left;
+	position: relative;
+	margin-top: 45px;
+	margin-bottom: 10px;
+}
+.right {
+	width: 88%;
+	height: 800px;
+	background-color: #F5F5F5;
+	float: right;
+	position: relative;
+	margin-top:45px;
+	margin-bottom: 10px;
+  padding-left: 10px;
+}
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #D3D3D3;
+	clear: both;
+}
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
+a {
+    text-decoration: none;
+}
