@@ -29,6 +29,9 @@ a:link {
   text-decoration: none;
   color: #696969;
 }
+a:visited {
+  color: #A9ACB6
+}
 img {
   border-radius: 5px;
   	border: 1px solid #236B8E;
