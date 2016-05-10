@@ -4,7 +4,7 @@ Body {
 div {
     border-radius: 7px;
 }
-h4 {
+h3 {
     color: #2B4F81;
 }
 #header {
@@ -34,7 +34,7 @@ h4 {
 }
 .left {
 	width: 10%;
-	height: 800px;
+	height: 1600px;
 	background-color: #687C97;
 	float: left;
 	position: relative;
@@ -43,7 +43,7 @@ h4 {
 }
 .right {
 	width: 88%;
-	height: 800px;
+	height: 1600px;
 	background-color: #F5F5F5;
 	float: right;
 	position: relative;
