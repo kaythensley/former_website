@@ -23,12 +23,11 @@ h1 {
 	margin-bottom: 10px;
 }
 #contact {
-  height: 75px;
-	width: 65px;
+  height: 250px;
+	width: 100px;
 	border: 1px solid #236B8E;
 	border-radius: 5px;
 	float: right;
-  padding: 5px;
   font-family: monospace;
   font-size: 16px;
 }
@@ -39,7 +38,13 @@ a:link {
 a:visited {
   color: #A9ACB6
 }
-img {
+#penguin {
   border-radius: 5px;
   	border: 1px solid #236B8E;
+}
+#photo {
+  height: 150px;
+  width: 100px;
+  padding-top: none;
+  border-radius: 5px;
 }
