@@ -24,7 +24,7 @@ h1 {
 }
 #contact {
   height: 250px;
-	width: 100px;
+	width: 120px;
 	border: 1px solid #236B8E;
 	border-radius: 5px;
 	float: right;
@@ -43,8 +43,8 @@ a:visited {
   	border: 1px solid #236B8E;
 }
 #photo {
-  height: 150px;
-  width: 100px;
+  height: 175px;
+  width: 120px;
   padding-top: none;
   border-radius: 5px;
 }
