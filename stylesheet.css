@@ -5,7 +5,7 @@ div {
     border-radius: 7px;
 }
 h3 {
-    color: #2B4F81;
+    color: #5E6078;
 }
 #header {
 	width: 99%;
@@ -35,7 +35,7 @@ h3 {
 .left {
 	width: 10%;
 	height: 1600px;
-	background-color: #687C97;
+	background-color: #5E6078;
 	float: left;
 	position: relative;
 	margin-top: 45px;
@@ -44,7 +44,7 @@ h3 {
 .right {
 	width: 88%;
 	height: 1600px;
-	background-color: #F5F5F5;
+	background-color: ##F5F5F5;
 	float: right;
 	position: relative;
 	margin-top:45px;

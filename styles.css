@@ -1,11 +1,12 @@
 body {
   background-color: lightgray;
   margin: 0;
-  font-family: "Tahoma"
+  font-family: 'Quicksand', sans-serif;
 }
 nav {
   background-color: white;
   padding: 20px 30px 20px 30px;
+  margin-bottom: 10px;
 
 }
 nav ul {
@@ -50,4 +51,11 @@ margin-left: 220px;
 margin-bottom: 10px;
 border-radius: 10px;
 padding: 10px 20px 10px 20px;
+}
+h1 {
+  color: #5E6078;
+  font-family: 'Niconne', cursive;
+}
+p {
+  font-family: 'Quicksand', sans-serif;
 }
