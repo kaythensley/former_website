@@ -64,3 +64,24 @@ h3 {
 a {
     text-decoration: none;
 }
+nav {
+  background-color: white;
+  padding: 20px 30px 20px 30px;
+  margin-bottom: 10px;
+
+
+}
+nav ul {
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+}
+nav a {
+  color: gray;
+  text-decoration: none;
+  padding: 5px 20px 5px 20px;
+}
+nav a:hover {
+  border-bottom: 3px solid #5E6078;
+}
