@@ -33,6 +33,7 @@ aside {
   overflow:hidden;
   float: left;
   padding-left: 10px;
+  padding-top: 10px
 
 }
 aside.research {
@@ -49,6 +50,7 @@ aside img.cover {
 }
 aside img.avatar {
   width: 90px;
+  border-radius: 60%;
 
 }
 aside img.media {
