@@ -36,6 +36,10 @@ aside {
   padding-top: 10px
 
 }
+aside a {
+  color: black;
+  text-decoration: none;
+}
 aside.research {
   width: 200px;
   border-radius: 10px;
@@ -49,14 +53,13 @@ aside img.cover {
   border-radius: 10px
 }
 aside img.avatar {
-  width: 90px;
-  border-radius: 60%;
+  width: 100px;
+  border-radius: 10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 
 }
-aside img.media {
-  width: 25px;
-  display: inline;
-}
+
 article.entry {
   background-color: #5E6078;
   color: white;
