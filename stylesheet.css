@@ -48,6 +48,7 @@ h3 {
 	background-color: #3c6978;
 	clear: both;
   color: white;
+  width: 95%
 }
 #footer p {
 	position: relative;
@@ -61,14 +62,16 @@ a {
     text-decoration: none;
 }
 nav {
-  background-color: white;
-  margin-bottom: 10px;
+  background-color: #4c879a;
+  margin-bottom: 20px;
   position: fixed;
-  width: 100%;
+  width: 95%;
   height: 40px;
   top: 0px;
   z-index: 1;
   box-sizing: border-box;
+  color: white;
+  border-radius: 7px;
 
 }
 nav ul {
@@ -79,7 +82,7 @@ nav ul li {
   display: inline;
 }
 nav a {
-  color: gray;
+  color: white;
   text-decoration: none;
 }
 nav a:hover {
