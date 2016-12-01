@@ -4,7 +4,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   text-decoration: none;
   margin-top: 80px;
-    height: 3000px;
+    height: 1000px;
     overflow: auto;
 
 }
@@ -76,6 +76,9 @@ div.contact a {
 }
 div.contact a:hover {
   color: #999999;
+}
+div.icons {
+
 }
 div.credit {
   padding: 20px 20px 20px 20px;
