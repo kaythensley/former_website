@@ -49,6 +49,11 @@ div.section {
   padding: 30px 30px 30px 30px;
 
 }
+
+div.experience {
+  width: 80%;
+  margin: 30px 200px 10px 200px;
+}
 ul.list {
   margin-left: 300px;
 }
