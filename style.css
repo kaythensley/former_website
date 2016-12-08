@@ -44,7 +44,18 @@ div.about {
   border-radius: 10px;
   padding: 60px 60px 10px 60px;
 }
+aside {
+  width: 250px;
+  height: 250px;
+  margin: none;
+}
 
+img {
+  border-radius: 10px;
+}
+div.article {
+  margin-left: 300px;
+}
 div.portfolio {
   background-color: #3c6978;
   color: white;
